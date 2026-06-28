@@ -1,0 +1,17 @@
+# Função emprestarLivro
+
+### Receber:
+
+- idLivro
+
+- idUsuario
+
+- Se livro estiver disponível
+
+### registrar empréstimo
+
+- alterar status para emprestado
+
+- senão
+
+- informar indisponibilidade
